@@ -1,2 +1,2 @@
-# portfolio
-Portfolio de práctica usando html, css y javascript
+# Portfolio
+Portfolio personal usando html, css y javascript
