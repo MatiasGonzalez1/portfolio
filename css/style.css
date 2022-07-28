@@ -331,6 +331,7 @@ h3.my-profesion{
     margin-bottom: 70px;
     font-size:20px;
     color: var(--text-black-700);
+    text-align: justify;
 }
 
 .home .home-img{
@@ -395,6 +396,7 @@ h3.my-profesion{
     font-size: 16px;
     line-height:25px;
     color: var(--text-black-700);
+    text-align: justify;
 }
 
 .about .about-content .personal-info{
@@ -795,6 +797,20 @@ color: var(--text-black-900);
     }
 }
 
+@media (min-width: 991px){
+  
+    .style-switcher .s-icon i{
+        line-height: 40px;
+    }
+
+    .style-switcher .s-icon{
+        height: 40px;
+        width: 40px;
+        
+    }
+    
+}
+
 @media (max-width: 991px){
     .contact .contact-info-item,
     .portfolio .portfolio-item,
@@ -810,6 +826,7 @@ color: var(--text-black-900);
     .home .home-img{
         display: none;
     }
+
 }
 
 @media (max-width: 767px){
