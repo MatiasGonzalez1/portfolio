@@ -797,20 +797,6 @@ color: var(--text-black-900);
     }
 }
 
-@media (min-width: 991px){
-  
-    .style-switcher .s-icon i{
-        line-height: 40px;
-    }
-
-    .style-switcher .s-icon{
-        height: 40px;
-        width: 40px;
-        
-    }
-    
-}
-
 @media (max-width: 991px){
     .contact .contact-info-item,
     .portfolio .portfolio-item,
