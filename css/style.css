@@ -214,8 +214,8 @@ position: relative;
     right: 0;
 }
 .aside .nav-toggler{
-    height:40px;
-    width: 45px;
+    height:30px;
+    width: 35px;
     border: 1px solid var(--bg-black-50);
     cursor: pointer;
     position: fixed;
@@ -791,7 +791,7 @@ color: var(--text-black-900);
     left: 30px;
    }
    .aside .nav-toggler.open{
-    left: 300px;
+    left: 225px;
    }
 
    .section{
