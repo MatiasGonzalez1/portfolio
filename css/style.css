@@ -327,6 +327,10 @@ h3.my-profesion{
     color: var(--skin-color);
 }
 
+.typing2{
+    color: var(--skin-color);
+}
+
 .home-info p{
     margin-bottom: 70px;
     font-size:20px;
@@ -566,7 +570,12 @@ color: var(--text-black-900);
     text-transform:capitalize;
     color: var(--text-black-900);
 }
-    
+
+.about .about-content .timeline .timeline-title:hover{
+    transform: scaleY(1.2);
+    cursor: pointer;
+}
+
 .about .about-content .timeline .timeline-title a{
     color: var(--text-black-900);
 }

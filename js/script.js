@@ -7,6 +7,12 @@ const typed = new Typed(".typing", {
     loop:true
 })
 
+const typed2 = new Typed(".typing2", {
+    strings:[" "," ","Javascript","React","MySql", "Node.js", "Canva", "Filmora"],
+    typeSpeed:90,
+    backSpeed:60,
+    loop:true
+})
 
 /**Aside **/
 const nav = document.querySelector(".nav");
